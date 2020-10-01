@@ -1,3 +1,4 @@
+<-- it takes input from the user regarding the place and budget -->
 <!DOCTYPE html>
 <html>
 <head>
